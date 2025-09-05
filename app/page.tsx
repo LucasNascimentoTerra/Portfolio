@@ -113,7 +113,7 @@ export default function Home() {
                 <a
                   href="/Lucas_Terra_Resume.2025.pdf"
                   download="Lucas_Terra_Resume.pdf"
-                  className="bg-white text-black px-8 rounded-full font-medium hover:bg-gray-100 transition-colors my-0 py-3"
+                  className="text-black px-8 rounded-full font-medium hover:bg-gray-100 transition-colors my-0 py-3 bg-red-400"
                   >
                   Download Resume
                 </a>
