@@ -52,17 +52,17 @@ export default function Home() {
                   <img
                     src="/pacman-character-selection.jpg"
                     alt="Pac-Man character selection screen showing ghost characters"
-                    className="w-full h-48 object-cover rounded-lg"
+                    className="w-full object-cover rounded-lg h-52"
                   />
                   <img
                     src="/zoo-gila-monster-cropped.jpg"
                     alt="At the zoo learning about Gila monsters"
-                    className="w-full h-48 object-cover rounded-lg"
+                    className="w-full object-cover rounded-lg h-52"
                   />
                   <img
                     src="/coral-aquarium-cropped.jpg"
                     alt="Beautiful coral with vibrant green polyps in aquarium lighting"
-                    className="w-full h-48 object-cover rounded-lg col-span-2"
+                    className="w-full object-cover rounded-lg col-span-2 h-52"
                   />
                 </div>
 
