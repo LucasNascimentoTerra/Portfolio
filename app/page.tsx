@@ -23,7 +23,7 @@ export default function Home() {
     <div
       className="min-h-screen text-foreground relative"
       style={{
-        backgroundImage: "url('/topographic-background.jpg')",
+        backgroundImage: "url('/download(1).jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundAttachment: "fixed",
