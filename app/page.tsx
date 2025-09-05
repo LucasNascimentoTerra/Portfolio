@@ -117,9 +117,13 @@ export default function Home() {
               {/* Resume section */}
               <div className="text-center mb-8">
                 <h2 className="text-2xl font-bold mb-4 text-white">Resume</h2>
-                <button className="bg-white text-black px-8 py-3 rounded-full font-medium hover:bg-gray-100 transition-colors">
+                <a
+                  href="/Lucas_Terra_Resume.2025.pdf"
+                  download="Lucas_Terra_Resume.pdf"
+                  className="bg-white text-black px-8 py-3 rounded-full font-medium hover:bg-gray-100 transition-colors"
+                  >
                   Download Resume
-                </button>
+                </a>
                 <p className="text-sm text-gray-300 mt-4">
                   See below for an alternate (and shorter) version of my resume.
                 </p>
