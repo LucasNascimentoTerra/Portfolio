@@ -109,15 +109,15 @@ export default function Home() {
             <section id="resume" className="scroll-mt-20">
               {/* Resume section */}
               <div className="text-center mb-8">
-                <h2 className="text-2xl font-bold mb-4 text-white">Resume</h2>
+                <h2 className="font-bold mb-4 text-white text-4xl py-3.5">Resume</h2>
                 <a
                   href="/Lucas_Terra_Resume.2025.pdf"
                   download="Lucas_Terra_Resume.pdf"
-                  className="bg-white text-black px-8 py-3 rounded-full font-medium hover:bg-gray-100 transition-colors"
+                  className="bg-white text-black px-8 rounded-full font-medium hover:bg-gray-100 transition-colors my-0 py-3"
                   >
                   Download Resume
                 </a>
-                <p className="text-sm text-gray-300 mt-4">
+                <p className="text-gray-300 mt-4 py-0 text-base">
                   See below for an alternate (and shorter) version of my resume.
                 </p>
               </div>
