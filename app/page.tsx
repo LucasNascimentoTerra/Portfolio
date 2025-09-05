@@ -69,10 +69,8 @@ export default function Home() {
                 {/* Hello section - right side */}
                 <div className="bg-yellow-section text-black p-6 rounded-lg">
                   <h2 className="text-2xl font-bold mb-4 text-center text-red-400">Hello!</h2>
-                  <p className="text-sm mb-6 text-black">
-                    My name is Lucas and I am a new graduate in IT. Specializing in Software Development, my interests
-                    primarily focus on DevOps, Network Infrastructure, and Embedded Systems. I enjoy working with any
-                    computer I can get my hands on, especially the "weird stuff". 😂
+                  <p className="mb-6 text-black text-base">
+                    My name is Lucas and I am a new graduate in IT. Specializing in Software Development, my interests primarily focus on DevOps, Network Infrastructure, and Embedded Systems. I enjoy working with any computer I can get my hands on, especially if there's a hardware component. 😆 
                   </p>
 
                   <div className="space-y-3 flex flex-col items-center">
