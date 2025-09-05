@@ -129,7 +129,7 @@ export default function Home() {
                 {/* Left column - Education and Experience stacked - now spans 3 columns for more width */}
                 <div className="lg:col-span-3 space-y-6 justify-stretch">
                   {/* Education */}
-                  <div className="bg-gray-800 p-6 rounded-lg">
+                  <div className="bg-gray-800 p-6 rounded-lg py-6">
                     <h3 className="text-xl font-bold mb-4 text-red-400">Education</h3>
                     <div className="space-y-4 text-sm">
                       <div>
@@ -140,7 +140,7 @@ export default function Home() {
                   </div>
 
                   {/* Experience */}
-                  <div className="bg-yellow-section text-black p-6 rounded-lg">
+                  <div className="bg-yellow-section text-black p-6 rounded-lg py-6">
                     <h3 className="text-xl font-bold mb-4 text-red-400">Experience</h3>
                     <div className="space-y-4 text-sm">
                       <div>
